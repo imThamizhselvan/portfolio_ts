@@ -169,8 +169,10 @@ h1, h2, h3, h4, h5, h6 {
     cursor: pointer; }
 
 .primary-btn {
+  text-decoration: none;
   background-color: #6c63ff;
-  color: #FFF; }
+  color: #fff;
+}
 
 .secondary-btn {
   background-color: #FFF;
